@@ -5,7 +5,9 @@ int main()
 {
 
   int age;
-  
+
+  cout << "Please Enter Your Age : ";
+
   cin >> age;
 
   int age_in_days = age * 365;
